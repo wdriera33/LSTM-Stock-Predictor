@@ -1,5 +1,5 @@
 # LSTM-Stock-Predictor
-![alt text](https://www.amd.com/system/files/108116-iStock-888477716-digital-brain-fade-1260x709.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/LSTM-Stock-Predictor/main/deep-learning-artificial-intellig.png "Logo Title Text 1")
 
 # Trading Strategies Infuence
 * Social Media
